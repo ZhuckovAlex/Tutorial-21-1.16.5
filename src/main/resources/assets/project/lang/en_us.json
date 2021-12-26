@@ -1,0 +1,33 @@
+{
+  "item.project.tutorial_item": "Tutorial item",
+  "item.project.test_axe": "Test axe",
+  "item.project.test_pickaxe": "Test pickaxe",
+  "item.project.test_hoe": "Test hoe",
+  "item.project.test_shovel": "Test shovel",
+  "item.project.test_sword": "Test sword",
+  "item.project.spider_horse_spawn_egg": "Spider horse spawn egg",
+
+  "block.project.redium": "Redium",
+  "block.project.verstak": "Verstak",
+  "block.project.firewood_wood": "Firewood wood",
+  "block.project.firewood_log": "Firewood log",
+  "block.project.firewood_leaves": "Firewood leaves",
+  "block.project.firewood_planks": "Firewood planks",
+  "block.project.firewood_slab": "Firewood slab",
+  "block.project.firewood_door": "Firewood door",
+  "block.project.firewood_trapdoor": "Firewood trapdoor",
+  "block.project.firewood_button": "Firewood button",
+  "block.project.aconite": "Aconite",
+  "block.project.firewood_pressure_plate": "Firewood pressure plate",
+  "block.project.firewood_stairs": "Firewood stairs",
+  "block.project.firewood_sapling": "Firewood sapling",
+  "block.project.stripped_firewood_wood": "Stripped firewood wood",
+  "block.project.stripped_firewood_log": "Stripped firewood log",
+
+  "entity.project.spider_horse": "Spider horse",
+
+  "screen.project.verstak": "Verstak",
+
+  "itemGroup.carrot": "Carrot",
+  "itemGroup.iron_block": "Iron block"
+}

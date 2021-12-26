@@ -1,0 +1,32 @@
+{
+  "item.project.tutorial_item": "Обучающий предмет",
+  "item.project.test_axe": "Тестовый топор",
+  "item.project.test_pickaxe": "Тестовая кирка",
+  "item.project.test_hoe": "Тествая мытыга",
+  "item.project.test_shovel": "Тестовая лопата",
+  "item.project.test_sword": "Тестовый меч",
+  "item.project.spider_horse_spawn_egg": "Яйцо призыва лошадиного паука",
+
+  "block.project.redium": "Редиум",
+  "block.project.verstak": "Верстак-лавочка",
+  "block.project.firewood_wood": "Древесина огнедерева",
+  "block.project.firewood_log": "Бревно огнедерева",
+  "block.project.firewood_leaves": "Листва огнедерева",
+  "block.project.firewood_planks": "Доски огнедерева",
+  "block.project.firewood_slab": "Огнедеревянный полублок",
+  "block.project.firewood_door": "Огнедеревянная дверь",
+  "block.project.firewood_trapdoor": "Огнедеревянный люк",
+  "block.project.aconite": "Аконит",
+  "block.project.firewood_button": "Огнедеревянная кнопка",
+  "block.project.firewood_pressure_plate": "Огнедеревянная нажимная плита",
+  "block.project.firewood_stairs": "Ступеньки из огнедерева",
+  "block.project.firewood_sapling": "Саженец огнедерева",
+  "block.project.stripped_firewood_wood": "Ободранная древесина огнедерева",
+  "block.project.stripped_firewood_log": "Ободранное бревно огнедерева",
+
+  "entity.project.spider_horse": "Лошадиный паук",
+  "screen.project.verstak": "Верстак",
+
+  "itemGroup.carrot": "Морковь",
+  "itemGroup.iron_block": "Железный блок"
+}
